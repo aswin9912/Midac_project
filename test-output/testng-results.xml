@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T21:49:56 IST" name="Default suite" finished-at="2024-02-08T21:54:22 IST" duration-ms="265947">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T21:49:56 IST" name="Default test" finished-at="2024-02-08T21:54:22 IST" duration-ms="265947">
+      <class name="project_test.Midac_test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:49:56 IST" name="setup" finished-at="2024-02-08T21:50:00 IST" duration-ms="3937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:50:00 IST" name="url" finished-at="2024-02-08T21:50:07 IST" duration-ms="7379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="home()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:50:07 IST" name="home" finished-at="2024-02-08T21:50:50 IST" duration-ms="42383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:50:50 IST" name="url" finished-at="2024-02-08T21:50:51 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="getappointment()[pri:1, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:50:51 IST" name="getappointment" finished-at="2024-02-08T21:51:08 IST" duration-ms="16269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getappointment -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:08 IST" name="url" finished-at="2024-02-08T21:51:09 IST" duration-ms="1496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="career()[pri:2, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:09 IST" name="career" finished-at="2024-02-08T21:51:24 IST" duration-ms="14707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- career -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:24 IST" name="url" finished-at="2024-02-08T21:51:26 IST" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="aboutus()[pri:3, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:26 IST" name="aboutus" finished-at="2024-02-08T21:51:37 IST" duration-ms="11712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutus -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:37 IST" name="url" finished-at="2024-02-08T21:51:39 IST" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="hospitaltour()[pri:4, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:39 IST" name="hospitaltour" finished-at="2024-02-08T21:51:52 IST" duration-ms="12479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hospitaltour -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:52 IST" name="url" finished-at="2024-02-08T21:51:55 IST" duration-ms="2914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="department()[pri:5, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:51:55 IST" name="department" finished-at="2024-02-08T21:52:08 IST" duration-ms="13639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- department -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:52:08 IST" name="url" finished-at="2024-02-08T21:52:10 IST" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="DrandGallery()[pri:6, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:52:10 IST" name="DrandGallery" finished-at="2024-02-08T21:52:57 IST" duration-ms="46684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DrandGallery -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:52:57 IST" name="url" finished-at="2024-02-08T21:52:59 IST" duration-ms="1638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="treatment()[pri:7, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:52:59 IST" name="treatment" finished-at="2024-02-08T21:53:20 IST" duration-ms="21914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- treatment -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:53:20 IST" name="url" finished-at="2024-02-08T21:53:22 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="patients()[pri:8, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:53:22 IST" name="patients" finished-at="2024-02-08T21:53:51 IST" duration-ms="28647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patients -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:53:51 IST" name="url" finished-at="2024-02-08T21:53:52 IST" duration-ms="1483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="econsult()[pri:9, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:53:52 IST" name="econsult" finished-at="2024-02-08T21:54:00 IST" duration-ms="8372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- econsult -->
+        <test-method is-config="true" signature="url()[pri:0, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:54:00 IST" name="url" finished-at="2024-02-08T21:54:02 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="contactus()[pri:10, instance:project_test.Midac_test@20140db9]" started-at="2024-02-08T21:54:02 IST" name="contactus" finished-at="2024-02-08T21:54:22 IST" duration-ms="19995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+      </class> <!-- project_test.Midac_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
